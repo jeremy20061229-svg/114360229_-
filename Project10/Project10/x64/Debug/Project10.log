@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\coding 3\Project10\Project10\Source.cpp(5,6): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\USER\Desktop\coding 3\Project10\Project10\Source.cpp(15,17): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\Desktop\coding 3\Project10\Project10\Source.cpp(19,5): error C2562: 'main': 'void' 函式傳回一個值
+      C:\Users\USER\Desktop\coding 3\Project10\Project10\Source.cpp(5,6):
+      請參閱 'main' 的宣告
+  
+C:\Users\USER\Desktop\coding 3\Project10\Project10\Source.cpp(12,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
